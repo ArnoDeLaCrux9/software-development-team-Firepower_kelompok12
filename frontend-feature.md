@@ -2,6 +2,10 @@
 
 #Nama: Jety
 
+
+#NPM : 2413020068
+
+
 ##Peran
 -Mengembangkan tampilan antarmuka pengguna
 -Membuat struktur halaman web
